@@ -25,7 +25,7 @@ There is a noticeable shift in the popularity of both start and end stations bet
  <img width="253" alt="Screenshot 2023-12-12 at 5 15 05 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/01061d7a-82eb-466b-bcca-7eaf7ef3ccbb">
 
 # Gender Distribution:
-. Remarkably, the analysis uncovers that a considerable majority of riders over the years are male.Indicating a predominantly male user base.
+ Remarkably, the analysis uncovers that a considerable majority of riders over the years are male.Indicating a predominantly male user base.
 
 <img width="480" alt="Screenshot 2023-12-12 at 5 09 11 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/f74800be-98de-4278-a41e-6d87e3caa161">
 
