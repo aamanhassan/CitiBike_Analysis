@@ -3,6 +3,15 @@
 ![image](https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/3e88c49c-4560-4dee-8ae2-de887b21dd09)
 
 Module 19 Tableau
+
+# Analysis:
+
+This Analysis presents a comprehensive analysis of the Citi Bike trips, taking into account various factors such as user type, gender, and age. Additionally, it provides an in-depth examination of trip patterns based on the hour of day and day of the week, as well as the total number of trips per month.
+
+It focuses on the analysis of trips in relation to the bike stations. It compares the trip patterns between weekdays and weekends and provides insights into the average trip duration for each month.
+
+It features maps showcasing the geographical locations of the start and end stations. The size and color of the markers are used to represent the total number of trips that originated or terminated at each station, providing a visual representation of the trip patterns and frequency.
+
 # Start And End Station Shift Identification:
 There is a noticeable shift in the popularity of both start and end stations between January 2015 and January 2016. Certain stations that were prominent in 2015 might have experienced a decline in popularity, while others emerged as new hubs. potential factors driving these changes, including urban development, attractions, or alterations in commuting patterns.
 ![Screenshot 2023-12-12 at 5 05 22 PM](https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/a02dbfc0-02a3-4d7b-8c0c-467d60583d93)
