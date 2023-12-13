@@ -17,10 +17,11 @@ The analysis also aims to discern the distribution of bike users based on their 
 
 # Start And End Station Shift Identification:
 There is a noticeable shift in the popularity of both start and end stations between January 2015 and January 2016. Certain stations that were prominent in 2015 might have experienced a decline in popularity, while others emerged as new hubs. Potential factors driving these changes, may include urban development, attractions, or alterations in commuting patterns.
+
 ![Screenshot 2023-12-12 at 5 05 22 PM](https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/a02dbfc0-02a3-4d7b-8c0c-467d60583d93)
 
 # Bike Ridership Trends:
- In Jan 2016, there was a significant overall surge in the number of bike riders compared to Jan 2015.
+In January 2016, the data reveals a substantial surge in the overall number of bike riders when compared to the figures recorded in January 2015. This notable increase signifies a significant shift in ridership dynamics over the one-year period
  
  <img width="253" alt="Screenshot 2023-12-12 at 5 15 05 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/01061d7a-82eb-466b-bcca-7eaf7ef3ccbb">
 
