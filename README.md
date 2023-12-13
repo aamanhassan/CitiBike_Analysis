@@ -6,11 +6,14 @@ Module 19 Tableau
 
 # Analysis:
 
-This Analysis presents a comprehensive analysis of the Citi Bike trips, taking into account various factors such as user type, gender, and age. Additionally, it provides an in-depth examination of trip patterns based on the hour of day and day of the week, as well as the total number of trips per month.
+This analysis offers a comprehensive exploration of Citi Bike trips, considering key factors such as user type, gender, and age. It focuses on the analysis of trips in relation to the bike stations.
 
-It focuses on the analysis of trips in relation to the bike stations. It compares the trip patterns between weekdays and weekends and provides insights into the average trip duration for each month.
+To enhance the visual representation of the findings, the analysis incorporates maps.The markers on the maps are not merely static points; instead, their size and color are purposefully utilized to convey meaningful information. The size of the markers is indicative of the total number of trips originating or terminating at each station. Larger markers signify higher trip frequency, while smaller ones represent stations with comparatively fewer trips. 
 
-It features maps showcasing the geographical locations of the start and end stations. The size and color of the markers are used to represent the total number of trips that originated or terminated at each station, providing a visual representation of the trip patterns and frequency.
+It focuses on the analysis of trips in relation to the bike stations. It compares the trip patterns between weekdays and weekends and provides insights into the average trip duration for each month.Additionally, it conducts a detailed examination of trip patterns based on both the hour of the day and the day of the week, providing a thorough understanding of temporal trends
+
+The analysis also aims to discern the distribution of bike users based on their age and gender, seeking a more nuanced understanding of the demographic composition within the bike riders community.
+
 
 # Start And End Station Shift Identification:
 There is a noticeable shift in the popularity of both start and end stations between January 2015 and January 2016. Certain stations that were prominent in 2015 might have experienced a decline in popularity, while others emerged as new hubs. potential factors driving these changes, including urban development, attractions, or alterations in commuting patterns.
