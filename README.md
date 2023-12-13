@@ -26,7 +26,7 @@ In January 2016, the data reveals a substantial surge in the overall number of b
  <img width="253" alt="Screenshot 2023-12-12 at 5 15 05 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/01061d7a-82eb-466b-bcca-7eaf7ef3ccbb">
 
 # Gender Distribution:
- Remarkably, the analysis uncovers that a considerable majority of riders over the years are male.Indicating a predominantly male user base.
+ Remarkably, the analysis uncovers that a considerable majority of riders over the years are male.Indicating a predominantly male user base. Removing the barriers to cycling will universalize biking’s appeal, and bike share will become a truly mature transportation mode integrated into NYC’s fabric of mobility.
 
 <img width="480" alt="Screenshot 2023-12-12 at 5 09 11 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/f74800be-98de-4278-a41e-6d87e3caa161">
 
@@ -51,4 +51,10 @@ The visualization of Citibike riders in New York City for January 2015 and Janua
 
 <img width="690" alt="Screenshot 2023-12-12 at 5 11 28 PM" src="https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/d8297375-b8cb-4db4-8fb7-dfdc2f9b2064">
 
-Collectively, these findings provide a comprehensive understanding of Citibike usage dynamics, offering strategic implications for service optimization, targeted marketing, and user-centric improvements to enhance the overall biking experience in New York City
+# Remarks 
+
+Collectively, these discoveries offer a holistic insight into the dynamics of Citibike usage, presenting strategic implications for optimizing services, implementing targeted marketing strategies, and introducing user-centric improvements. These insights collectively contribute to the overarching goal of enhancing the overall biking experience in New York City, fostering a more efficient, engaging, and tailored service for riders.
+
+
+![image](https://github.com/aamanhassan/CitiBike_Analysis/assets/139508376/944f3649-6c50-4de4-99bd-ab307e90116f)
+
