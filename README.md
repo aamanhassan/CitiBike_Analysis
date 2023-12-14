@@ -6,7 +6,7 @@ Module 19 Tableau
 
 # Analysis:
 
-This analysis offers a comprehensive exploration of Citi Bike trips, considering key factors such as user type, gender, and age. It focuses on the analysis of trips in relation to the bike stations.
+This analysis offers a comprehensive exploration of Citi Bike trips, considering key factors such as time, gender, and age. It focuses on the analysis of trips in relation to the bike stations.
 
 To enhance the visual representation of the findings, the analysis incorporates maps.The markers on the maps are not merely static points; instead, their size and color are purposefully utilized to convey meaningful information. The size of the markers is indicative of the total number of trips originating or terminating at each station. Larger markers signify higher trip frequency, while smaller ones represent stations with comparatively fewer trips. 
 
